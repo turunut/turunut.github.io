@@ -1,0 +1,8 @@
+name = "Hello World Copy"
+description = "Basic hello world example that displays text in a page with PyScript."
+packages = ["numpy"]
+
+[files]
+"./objMaterial.py" = ""
+"./objCT.py" = ""
+"./objRotator.py" = ""
